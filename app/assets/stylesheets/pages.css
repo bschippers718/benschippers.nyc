@@ -11,6 +11,8 @@ body {
 }
 
 .full {
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+
   background: url(http://www.danransom.com/images/TimpUltraHighRes.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
