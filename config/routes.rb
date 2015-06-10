@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'pages/about'
+
   root "pages#me"
 
   # The priority is based upon order of creation: first created -> highest priority.
