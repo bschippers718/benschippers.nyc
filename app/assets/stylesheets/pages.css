@@ -8,12 +8,16 @@ body {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	background: none;
+
+
 }
 
 .full {
-  background: url(http://smashingpicture.com/wp-content/uploads/2010/08/wilson6.jpg?d7f8f2) no-repeat center center fixed; 
+  background: url(http://ourbksocial.com/wp-content/uploads/2014/01/coney-island-1-final.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
 }
+
