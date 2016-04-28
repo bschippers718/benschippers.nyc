@@ -8,12 +8,17 @@ body {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	background: none;
+}
 
-
+.splits {
+	color: white;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
 }
 
 .full {
-  background: url(http://ourbksocial.com/wp-content/uploads/2014/01/coney-island-1-final.jpg) no-repeat center center fixed; 
+  background: url(https://farm3.staticflickr.com/2733/4032940087_a70c90679f_b.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
