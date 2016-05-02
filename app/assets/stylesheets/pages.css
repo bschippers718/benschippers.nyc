@@ -19,10 +19,12 @@ body {
 }
 
 .contact {
+	text-decoration: none;
 	color: #FFFFFF;
 	font-size: 20px;
 	font-weight: lighter;
 	text-align: center;
+	margin-top: 10px;
 	opacity: 0.8;
 }
 
