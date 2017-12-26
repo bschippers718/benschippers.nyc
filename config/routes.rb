@@ -1,9 +1,10 @@
 Rails.application.routes.draw do
   
   root "pages#about"
+  get "/pages/:page" => "pages#show"
+
   get 'pages/me'
 
-  get 'pages/about'
 
   #get 'pages/me'
 
