@@ -1,9 +1,22 @@
 Rails.application.routes.draw do
-  
-  root "pages#about"
-  get "/pages/:page" => "pages#show"
+ get 'pages/about'
 
-  get 'pages/me'
+ root 'pages#about'
+
+  #root "pages#me" 
+ 
+#get 'welcome/index'
+
+  #root 'welcome#index'
+
+ #root "pages#about"
+
+  #get 'advise/index'
+
+
+  #get "/pages/:page" => "pages#show"
+
+  #get 'pages/me'
 
 
   #get 'pages/me'
